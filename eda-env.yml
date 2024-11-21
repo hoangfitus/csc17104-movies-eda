@@ -1,0 +1,11 @@
+# Last update: 21/11/2024
+name: eda-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3.6.6
+  - python=3.11.7
+  - matplotlib=3.9.0
+  - numpy=2.1
+  - pandas=2.2
+  - seaborn=0.13.2
