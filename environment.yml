@@ -5,7 +5,7 @@ channels:
 dependencies:
   - jupyterlab=3.6.6
   - python=3.11.7
-  - matplotlib=3.9.0
-  - numpy=2.1
   - pandas=2.2
   - seaborn=0.13.2
+  - matplotlib=3.8.2
+  - numpy=1.26.3
